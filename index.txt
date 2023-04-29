@@ -1,1 +1,5 @@
 hello world
+enter your name
+greetings
+one more string
+end of
