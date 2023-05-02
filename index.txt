@@ -1,8 +1,1 @@
-hello world
-enter your name
-greetings
-two more string
-link to feature
-end ofnew line
-new line
-
+new content
