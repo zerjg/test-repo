@@ -2,5 +2,4 @@ feature description
 version
 author
 purpose
-datenew line
 new line
