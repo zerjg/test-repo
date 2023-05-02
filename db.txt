@@ -4,10 +4,3 @@ datas
 add
 new
 data
-add
-some
-more
-data
-more
-and
-more
