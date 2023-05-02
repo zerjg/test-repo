@@ -4,5 +4,3 @@ datas
 add
 new
 data
-user
-password
