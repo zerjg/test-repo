@@ -1,7 +1,2 @@
+content
 database
-with
-datas
-add
-new
-data
-email
