@@ -3,4 +3,6 @@ enter your name
 greetings
 two more string
 link to feature
-end of
+end ofnew line
+new line
+
